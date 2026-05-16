@@ -1,4 +1,3 @@
-# agente
 # Prompt — Analisi normativa
 
 ## Prompt utilizzato nel nodo Anthropic (Message a Model)
